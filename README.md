@@ -2,13 +2,13 @@
 
 
 
-笔者在工作需要经常查询交易所的一些规则、接口等，
+笔者在工作需要经常查询交易所的一些规则、接口等，经常会出现下面的情况：
 
 - 有时接口版本更新等原因，下载到本地的资料不是最新的；
 - 有些资料从网站查询之后又忘记了；
 - 还有些环境配置等在某个文档里面，查询更新的时候又忘记了。
 
-好记性不如烂笔头，对于国内外主流交易所业务规则、接口规范、指引、环境配置等进行汇总，便于查阅使用。
+年纪大了。好记性不如烂笔头，对于国内外主流交易所业务规则、接口规范、指引、环境配置等进行汇总，便于查阅使用。
 
 
 
@@ -64,6 +64,16 @@ CA证书申请：[CA服务](https://www.szse.cn/marketServices/message/ca/index.
 
 
 
+## 上证所信息网络有限公司
+
+接入入口：[环境接入指引入口](https://www.sseinfo.com/services/assortment/document/)
+
+上海证券交易所LDDS系统环境接入指引(1.1.1):[上海证券交易所LDDS系统环境接入指引(1.1.1)_20220126](https://www.sseinfo.com/services/assortment/document/additions/c/5690675.pdf)
+
+
+
+
+
 # 技术服务
 
 本章内容包含了技术接口规范。
@@ -102,6 +112,12 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 
 
+## 上证所网络信息有限公司
+
+正式接口及开发测试接口说明书：[说明入口](https://www.sseinfo.com/services/assortment/document/)
+
+低延迟行情发布系统（LDDS）接口说明书：
+
 # 软件下载
 
 本章内容包括了行情、交易等软件下载信息。
@@ -118,9 +134,9 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 深交所交易日历：[交易日历](http://www.szse.cn/aboutus/calendar/index.html)
 
+上交所交易日历：[交易日历](http://www.sse.com.cn/disclosure/dealinstruc/closed/)
 
-
-
+​	
 
 
 
