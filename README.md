@@ -72,6 +72,10 @@ CA证书申请：[CA服务](https://www.szse.cn/marketServices/message/ca/index.
 
 
 
+## 香港证券交易所
+
+
+
 
 
 # 技术服务
@@ -116,7 +120,11 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 正式接口及开发测试接口说明书：[说明入口](https://www.sseinfo.com/services/assortment/document/)
 
-低延迟行情发布系统（LDDS）接口说明书：
+低延迟行情发布系统（LDDS）接口说明书：[上海证券交易所低延时行情发布系统(LDDS)接口说明书(1.1.1)_20220207](https://www.sseinfo.com/services/assortment/document/interface/c/5691579.pdf)
+
+
+
+
 
 # 软件下载
 
@@ -127,6 +135,8 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 深交所：[深交所交易、行情、文件网关等下载](https://biz.sscc.com/download.html)
 
 深交所相关软件下载链接转到了**深证证券通信有限公司**。
+
+上证所信息网络有限公司：[LDDS系统VDE部署使用手册](https://www.sseinfo.com/services/assortment/document/additions/c/5714140.pdf)
 
 
 
