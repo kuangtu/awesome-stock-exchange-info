@@ -16,6 +16,13 @@
 
 本章内容包含了交易所股票、债券交易等规则。
 
+## 上市规则
+
+### 港交所
+
+上市规则：[上市规则](https://sc.hkex.com.hk/TuniS/www.HKEX.com.hk/Listing/Rules-and-Guidance/Listing-Rules?sc_lang=zh-CN)
+
+
 ## 交易规则
 
 ### 上交所
@@ -27,6 +34,11 @@
 ### 深交所
 
 最新规则：[最新规则](https://www.szse.cn/lawrules/rule/new/index.html)
+
+
+### 港交所
+
+最新规则：[规则概述](https://sc.hkex.com.hk/TuniS/www.HKEX.com.hk/Services/Rules-and-Forms-and-Fees/Rules/Overview?sc_lang=zh-CN)
 
 
 
@@ -145,6 +157,8 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 深交所交易日历：[交易日历](http://www.szse.cn/aboutus/calendar/index.html)
 
 上交所交易日历：[交易日历](http://www.sse.com.cn/disclosure/dealinstruc/closed/)
+
+港交所交易日历：[交易日历] (https://sc.hkex.com.hk/TuniS/www.HKEX.com.hk/News/HKEX-Calendar?sc_lang=zh-CN)
 
 ​	
 
