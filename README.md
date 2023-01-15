@@ -74,6 +74,10 @@ CA证书申请：[CA服务](https://www.szse.cn/marketServices/message/ca/index.
 
 ## 香港证券交易所
 
+基础设施接入入口：[基础设施](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Services/Connectivity/SDNet_2?sc_lang=zh-HK)
+
+【香港交易所领航星】市场数据平台 (OMD)系统设施：[系统设施](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Services/Market-Data-Services/Infrastructure?sc_lang=zh-HK)
+
 
 
 
@@ -121,6 +125,10 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 正式接口及开发测试接口说明书：[说明入口](https://www.sseinfo.com/services/assortment/document/)
 
 低延迟行情发布系统（LDDS）接口说明书：[上海证券交易所低延时行情发布系统(LDDS)接口说明书(1.1.1)_20220207](https://www.sseinfo.com/services/assortment/document/interface/c/5691579.pdf)
+
+
+
+## 香港证券交易所
 
 
 
