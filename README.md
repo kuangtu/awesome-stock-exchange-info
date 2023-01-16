@@ -144,6 +144,33 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 ## 香港证券交易所
 
+市场数据服务：[市场数据服务](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Services/Market-Data-Services/Real-Time-Data-Services/Overview?sc_lang=zh-HK)
+
+「香港交易所领航星」市场数据平台—证券市场 (OMD-C)：[市场数据平台—证券市场](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Services/Market-Data-Services/Infrastructure/HKEX-Orion-Market-Data-Platform-Securities-Market-OMD-C?sc_lang=zh-HK)
+
+内地市场数据枢纽-证券市场(OMD-MMDH)：[内地市场数据枢纽-证券市场(OMD-MMDH)](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Services/Market-Data-Services/Infrastructure/Mainland-Market-Data-Hub-Securities-Market-OMD-C-MMDH?sc_lang=zh-HK)
+
+「香港交易所领航星」市场数据平台—衍生产品市场(OMD-D)：[市场数据平台—衍生产品市场](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Services/Market-Data-Services/Infrastructure/HKEX-Orion-Market-Data-Platform-Derivatives-Market-OMD-D?sc_lang=zh-HK)
+
+
+
+## 纽交所
+
+产品服务：[产品服务介绍](https://www.nyse.com/data-products)
+
+主要包括的数据产品有：
+
+-  [实时数据](https://www.nyse.com/market-data/real-time)
+- [历史数据](https://www.nyse.com/market-data/historical)
+- [公司事件](https://www.nyse.com/market-data/corporate-actions)
+- [公司交易活动](https://www.nyse.com/market-data/reference)
+
+根据不同的类型提供影响规范：
+
+股票通用用户规范：[Pillar Equities Common Client Specification](https://www.nyse.com/publicdocs/nyse/data/NYSE_Pillar_Equities_Common_Client_Specification.pdf)
+
+集成订阅用户规范：[Integrated Feed Client Specification](https://www.nyse.com/publicdocs/nyse/data/NYSE_Pillar_Integrated_Feed_Client_Specification.pdf)
+
 
 
 
