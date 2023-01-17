@@ -46,6 +46,12 @@
 
 
 
+### 新加坡交易所
+
+交易规则入口：[交易规则](https://www.sgx.com/securities/trading)
+
+
+
 # 接入服务指引
 
 本章内容包含了交易所行情、交易环境接入环境、流程等指引。
@@ -93,6 +99,15 @@ CA证书申请：[CA服务](https://www.szse.cn/marketServices/message/ca/index.
 【香港交易所领航星】市场数据平台 (OMD)系统设施：[系统设施](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Services/Market-Data-Services/Infrastructure?sc_lang=zh-HK)
 
 
+
+## 新加坡交易所
+
+市场接入：[市场接入](https://www.sgx.com/data-connectivity/market-access)
+
+交易参与者主要通过两种方式接入市场：
+
+- SGXAccess API
+- SGXAccess FIX
 
 
 
@@ -165,19 +180,35 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 - [公司事件](https://www.nyse.com/market-data/corporate-actions)
 - [公司交易活动](https://www.nyse.com/market-data/reference)
 
-根据不同的类型提供影响规范：
+根据不同的类型提供影响规范，比如实时数据：
 
-股票通用用户规范：[Pillar Equities Common Client Specification](https://www.nyse.com/publicdocs/nyse/data/NYSE_Pillar_Equities_Common_Client_Specification.pdf)
+- 股票通用用户规范：[Pillar Equities Common Client Specification](https://www.nyse.com/publicdocs/nyse/data/NYSE_Pillar_Equities_Common_Client_Specification.pdf)
 
-集成订阅用户规范：[Integrated Feed Client Specification](https://www.nyse.com/publicdocs/nyse/data/NYSE_Pillar_Integrated_Feed_Client_Specification.pdf)
+- 集成订阅用户规范：[Integrated Feed Client Specification](https://www.nyse.com/publicdocs/nyse/data/NYSE_Pillar_Integrated_Feed_Client_Specification.pdf)
 
+历史数据：
 
+- TAQ 数据订阅：[TAQ Pillar Products Client Specification](https://www.nyse.com/publicdocs/nyse/data/TAQ_Pillar_Products_Client_Spec_v2.3i.pdf)
+
+  
 
 
 
 ## 北交所
 
 交易支持平台数据接口规范：[交易支持平台数据接口规范（V2.1）](https://www.bse.cn/uploads/6/file/public/202209/20220902205128_2k3q28i883.pdf)
+
+
+
+## 新加坡交易所
+
+技术规范：[技术规范](https://www.sgx.com/sgx-reach)
+
+基本接入架构如下：
+
+![新加坡交易所接入架构](jpg/新加坡交易所接入架构.jpg)
+
+
 
 
 
