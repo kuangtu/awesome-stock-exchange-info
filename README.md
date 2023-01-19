@@ -52,6 +52,16 @@
 
 
 
+### 伦交所
+
+交易规则入口：[交易规则](https://www.londonstockexchange.com/resources/securities-trading-resources?tab=rules-and-regulations)
+
+
+
+
+
+
+
 # 接入服务指引
 
 本章内容包含了交易所行情、交易环境接入环境、流程等指引。
@@ -108,6 +118,20 @@ CA证书申请：[CA服务](https://www.szse.cn/marketServices/message/ca/index.
 
 - SGXAccess API
 - SGXAccess FIX
+
+
+
+## 伦交所
+
+数据中心接入：[数据中心接入](https://www.londonstockexchange.com/resources/securities-trading-resources?tab=technical-library&accordionId=0-c17336cd-5d4f-4124-aedd-45a31948d2c7&moduleId=block_content%3Aeee54ed9-7327-4e91-8bf3-b3ee7e01c570)
+
+用户接口：
+
+![伦交所用户接口](jpg/伦交所用户接口.jpg)
+
+
+
+
 
 
 
@@ -207,6 +231,12 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 基本接入架构如下：
 
 ![新加坡交易所接入架构](jpg/新加坡交易所接入架构.jpg)
+
+
+
+## 伦交所
+
+技术规范：[技术规范](https://www.londonstockexchange.com/resources/securities-trading-resources?tab=technical-library&accordionId=0-2b510a0f-6659-4507-b35e-f97eaa476ffb&moduleId=block_content%3Abc3f1d6a-786e-4c90-af45-d308eb653746)
 
 
 
