@@ -58,6 +58,16 @@
 
 
 
+### 欧洲交易所
+
+交易规则入口：[交易规则](https://www.eurex.com/ex-en/rules-regs/eurex-rules-regulations)
+
+
+
+### 多伦多证券交易所集团
+
+交易规则入口： [交易规则](https://www.tmx.com/tmx-group/regulatory-policies)
+
 
 
 
@@ -131,7 +141,11 @@ CA证书申请：[CA服务](https://www.szse.cn/marketServices/message/ca/index.
 
 
 
+## 欧洲交易所
 
+接入支持：[接入支持](https://www.eurex.com/ex-en/support/technology/connectivity)
+
+![欧洲交易所数据接口](jpg/欧洲交易所数据接口.jpg)
 
 
 
@@ -264,7 +278,9 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 港交所交易日历：[交易日历](https://sc.hkex.com.hk/TuniS/www.HKEX.com.hk/News/HKEX-Calendar?sc_lang=zh-CN)
 
+欧交所交易日历：[交易日历](https://www.eurex.com/ex-en/trade/trading-calendar)
 
+觉得他们的网站日历展示不错，可以按照不同的产品进行查询。
 
 
 
