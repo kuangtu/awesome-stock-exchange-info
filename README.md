@@ -268,6 +268,14 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 
 
+## 日本交易所集团
+
+东交所通过数据云（JPX Data Cloud）向市场提供历史行情等数据，主要通过csv格式。数据接口规范：[数据接口规范](http://db-ec.jpx.co.jp/client_info/JPX_DLSITE/html/data_detail_en.pdf)
+
+20分钟延时行情数据，通过Web API方式向市场提供：数据接口规范：[数据接口规范](https://www.jpx.co.jp/english/markets/paid-info-equities/realtime/b5b4pj000003wta2-att/API_ServiceGuide.pdf)
+
+
+
 
 
 # 软件下载
@@ -296,7 +304,11 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 - 觉得他们的网站日历展示不错，可以按照不同的产品进行查询。
 
+新加坡交易所：[交易日历](https://www.sgx.com/derivatives/trading)
 
+- 通过日历标识每天的交易状态：
+
+  ![sgx_calendar](jpg/sgx_calendar.jpg)
 
 ​	
 
