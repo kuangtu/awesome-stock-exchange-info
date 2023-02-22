@@ -322,6 +322,8 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 ## 深交所
 
+### 系统介绍
+
 [深交所五版交易系统介绍](https://www.szse.cn/marketServices/technicalservice/introduce/)
 
 业务蓝图：
@@ -333,4 +335,18 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 系统架构：
 
 ![系统架构](jpg/系统架构.jpg)
+
+
+
+
+
+
+
+### 参考链接
+
+[第五代交易系统介绍](https://www.szse.cn/marketServices/technicalservice/introduce/)
+
+[深交所码农眼中的第五代交易系统](https://www.szse.cn/aboutus/sse/documents/P020180328486251814979.pdf)
+
+[深交所关键信息基础设施安全运营实践](https://www.secrss.com/articles/16971)
 
