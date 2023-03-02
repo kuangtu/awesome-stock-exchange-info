@@ -359,4 +359,9 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 [全球主要交易所系列研究之洲际交易所集团（纽交所）](http://www.sse.com.cn/aboutus/research/report/c/5300349.pdf)
 
 
+# 交易所协议
+不同交易所采用的协议不同。对于主要交易所协议进行汇总。
+## Nasdaq
+[SoupBinTCP](https://www.nasdaq.com/docs/SoupBinTCP%204.1.pdf)
+[Nordic OUCH 5 Specification](https://www.nasdaq.com/docs/2022/11/09/OUCH5-for-Nasdaq-Nordic-5.01.4_0.pdf)
 
