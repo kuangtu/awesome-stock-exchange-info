@@ -365,3 +365,14 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 [SoupBinTCP](https://www.nasdaq.com/docs/SoupBinTCP%204.1.pdf)
 [Nordic OUCH 5 Specification](https://www.nasdaq.com/docs/2022/11/09/OUCH5-for-Nasdaq-Nordic-5.01.4_0.pdf)
 
+## 伦敦交易所集团
+伦交所市场数据传输包含多个方面，不同数据分类规范不同。
+### 历史数据产品
+[历史数据产品](https://www.londonstockexchange.com/securities-trading/market-data/historical-data-products)
+包含历史订单数据等，主要是通过文件方式对外提供：
+![文件格式](jpg/伦交所历史数据订单文件格式.jpg]
+### 实时数据
+[实时数据概述](https://www.londonstockexchange.com/securities-trading/market-data/real-time-data-overview)
+[Group Ticker Plant (GTP)](https://www.londonstockexchange.com/securities-trading/market-data/group-ticker-plant) 通过GTP平台进行数据发布
+[Group Ticker Plant - Technical Specifications](https://www.londonstockexchange.com/resources/security-trading-resources/gtp-technical-specifications) GTP平台接口规范
+
