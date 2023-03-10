@@ -359,7 +359,7 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 [全球主要交易所系列研究之洲际交易所集团（纽交所）](http://www.sse.com.cn/aboutus/research/report/c/5300349.pdf)
 
 
-# 交易所协议
+# 交易所技术/平台
 不同交易所采用的协议不同。对于主要交易所协议进行汇总。
 ## Nasdaq
 [SoupBinTCP](https://www.nasdaq.com/docs/SoupBinTCP%204.1.pdf)
@@ -375,4 +375,8 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 [实时数据概述](https://www.londonstockexchange.com/securities-trading/market-data/real-time-data-overview)
 [Group Ticker Plant (GTP)](https://www.londonstockexchange.com/securities-trading/market-data/group-ticker-plant) 通过GTP平台进行数据发布
 [Group Ticker Plant - Technical Specifications](https://www.londonstockexchange.com/resources/security-trading-resources/gtp-technical-specifications) GTP平台接口规范
+## 纽交所
+[数据产品概述](https://www.nyse.com/data-products) 
+主要包含了实时数据、历史数据、公司事件、参考数据等
+[NYSE Pillar平台](https://www.nyse.com/market-data/real-time/integrated-feed)
 
