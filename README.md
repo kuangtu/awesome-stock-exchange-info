@@ -364,6 +364,15 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 ## Nasdaq
 [SoupBinTCP](https://www.nasdaq.com/docs/SoupBinTCP%204.1.pdf)
 [Nordic OUCH 5 Specification](https://www.nasdaq.com/docs/2022/11/09/OUCH5-for-Nasdaq-Nordic-5.01.4_0.pdf)
+### 市场数据源
+[Nasdaq Market Data Feeds](https://www.nasdaq.com/solutions/nasdaq-market-data-feeds)
+按照不同的分类包含了：
+- [股票市场](https://www.nasdaq.com/solutions/nasdaq-equities-market-data-solution)
+- [期权、期货市场](https://www.nasdaq.com/solutions/nasdaq-options-and-futures-market-data)
+- [固定收益](https://www.nasdaq.com/solutions/fixed-income-market-data-reference-data-base)
+- [商品](https://www.nasdaq.com/solutions/nasdaq-commodities-data)
+- [指数](https://www.nasdaq.com/solutions/nasdaq-index-data-solution)
+- [多资产](https://www.nasdaq.com/solutions/nasdaq-data-multi-asset-classes)
 
 ## 伦敦交易所集团
 伦交所市场数据传输包含多个方面，不同数据分类规范不同。
