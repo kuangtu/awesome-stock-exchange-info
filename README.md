@@ -412,7 +412,17 @@ AWS云服务
 
 
 
+# 应急处置
 
+主要交易所应急处置手册、方案。
+
+[Exchange Playbooks On Outage Protocols In Equity Markets](https://www.marketsmedia.com/exchange-playbooks-on-outage-protocols-in-equity-markets/)
+
+[Euronext Playbook for Incident Management](https://connect2.euronext.com/en/media/1390/download) 泛欧交易所应急处置手册
+
+[Emergency-Playbook-Incident-Handling](https://www.xetra.com/resource/blob/2798788/554d287b6756ef5e60856c6e491e15ea/data/Emergency-Playbook-Incident-Handling.pdf) 德交所应急处置手册
+
+[T7交易系统应急处置手册](https://www.xetra.com/xetra-en/technology/t7/emergency-procedures)https://www.xetra.com/xetra-en/technology/t7/emergency-procedures
 
 
 
