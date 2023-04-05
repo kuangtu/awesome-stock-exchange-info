@@ -414,6 +414,8 @@ AWS云服务
 
 # 应急处置
 
+## 德交所集团
+
 主要交易所应急处置手册、方案。
 
 [Exchange Playbooks On Outage Protocols In Equity Markets](https://www.marketsmedia.com/exchange-playbooks-on-outage-protocols-in-equity-markets/)
@@ -422,7 +424,13 @@ AWS云服务
 
 [Emergency-Playbook-Incident-Handling](https://www.xetra.com/resource/blob/2798788/554d287b6756ef5e60856c6e491e15ea/data/Emergency-Playbook-Incident-Handling.pdf) 德交所应急处置手册
 
-[T7交易系统应急处置手册](https://www.xetra.com/xetra-en/technology/t7/emergency-procedures)https://www.xetra.com/xetra-en/technology/t7/emergency-procedures
+[emergency-procedures](https://www.xetra.com/xetra-en/technology/t7/emergency-procedures) T7交易系统应急处置手册
+
+[德交所集团T7交易系统风险处置指南分析](https://mp.weixin.qq.com/s?__biz=MzAwOTcyNDI3MA==&mid=2649048209&idx=1&sn=b50c8839f6f6e6f7f5af2d0249f55a77&chksm=834aac90b43d25867da993aba0351fc75af58e6e71d9f69b1c362e6a1824d28993629a75238e&token=1959441179&lang=zh_CN#rd)
+
+## 西班牙交易所
+
+[BME'S EQUITY TRADING SYSTEMS INCIDENT HANDLING](https://www.bolsasymercados.es/bme-exchange/docs/docsSubidos/Market-Status/Outages-protocols-BME-Equity-Systems.pdf) 西班牙交易所应急处置协议和标准
 
 
 
