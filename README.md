@@ -316,8 +316,6 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 
 
-
-
 # 技术架构
 
 ## 深交所
@@ -433,4 +431,6 @@ AWS云服务
 [BME'S EQUITY TRADING SYSTEMS INCIDENT HANDLING](https://www.bolsasymercados.es/bme-exchange/docs/docsSubidos/Market-Status/Outages-protocols-BME-Equity-Systems.pdf) 西班牙交易所应急处置协议和标准
 
 
+## 保加利亚交易所
+[Emergency Playbook – Incident Handling Standards and best practices defined by Bulgarian Stock Exchange](https://download.bse-sofia.bg/BSE-Rules/Playbook_on_outages_2022.04.12_en.pdf)
 
