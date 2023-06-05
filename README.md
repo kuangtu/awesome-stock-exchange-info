@@ -356,6 +356,10 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 [全球主要交易所系列研究之洲际交易所集团（纽交所）](http://www.sse.com.cn/aboutus/research/report/c/5300349.pdf)
 
+[全球主要交易所系列研究之德国交易所集团](http://www.sse.com.cn/aboutus/research/report/c/5300348.pdf)
+
+
+
 
 # 交易所技术/平台
 不同交易所采用的协议不同。对于主要交易所协议进行汇总。
@@ -408,7 +412,9 @@ AWS云服务
 
 
 
+## 德交所
 
+[交易平台](https://www.eurex.com/ex-en/support/technology/t7)
 
 # 应急处置
 
