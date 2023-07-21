@@ -99,23 +99,11 @@
 
 # 交易日历
 
-深交所交易日历：[交易日历](http://www.szse.cn/aboutus/calendar/index.html)
+对于主要交易所交易日历信息进行汇总。
 
-上交所交易日历：[交易日历](http://www.sse.com.cn/disclosure/dealinstruc/closed/)
+[交易日历](./交易日历/readme.md) 交易日历
 
-港交所交易日历：[交易日历](https://sc.hkex.com.hk/TuniS/www.HKEX.com.hk/News/HKEX-Calendar?sc_lang=zh-CN)
 
-欧交所交易日历：[交易日历](https://www.eurex.com/ex-en/trade/trading-calendar)
-
-- 觉得他们的网站日历展示不错，可以按照不同的产品进行查询。
-
-新加坡交易所：[交易日历](https://www.sgx.com/derivatives/trading)
-
-- 通过日历标识每天的交易状态：
-
-  ![sgx_calendar](jpg/sgx_calendar.jpg)
-
-​	
 
 
 
@@ -157,11 +145,10 @@
 
 # 交易所研究
 
-[全球主要交易所系列研究之洲际交易所集团（纽交所）](http://www.sse.com.cn/aboutus/research/report/c/5300349.pdf)
 
-[全球主要交易所系列研究之德国交易所集团](http://www.sse.com.cn/aboutus/research/report/c/5300348.pdf)
+针对全球交易所的研究报告。
 
-
+[研究报告](./研究报告/readme.md)：上交所针对全球交易所的研究报告
 
 
 # 交易所技术/平台
