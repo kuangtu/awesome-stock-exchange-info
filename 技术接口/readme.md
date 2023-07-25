@@ -73,4 +73,11 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 20分钟延时行情数据，通过Web API方式向市场提供：数据接口规范：[数据接口规范](https://www.jpx.co.jp/english/markets/paid-info-equities/realtime/b5b4pj000003wta2-att/API_ServiceGuide.pdf)
 
 
+## 新加坡交易所
+技术规范：[技术规范](https://www.sgx.com/sgx-reach)
+
+## 伦交所
+
+技术规范：[技术规范](https://www.londonstockexchange.com/resources/securities-trading-resources?tab=technical-library&accordionId=0-2b510a0f-6659-4507-b35e-f97eaa476ffb&moduleId=block_content%3Abc3f1d6a-786e-4c90-af45-d308eb653746)
+
 
