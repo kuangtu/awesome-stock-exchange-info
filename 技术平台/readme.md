@@ -2,6 +2,27 @@
 
 对于交易所技术平台进行汇总。
 
+## 上交所
+[上海证券交易所交易及相关系统技术白皮书](https://www.ssetech.com.cn/news/notice/c/5711119.shtml)
+上海证券交易所（以下简称“本所”）交易及相关系统包括交易系统、行情系统、通信网络、测试系统及其备份系统等。
+《上海证券交易所交易及相关系统技术白皮书》（以下简称《技术白皮书》）根据本所交易及相关系统实际建设情况编制，
+主要阐述本所交易及相关系统的相关架构、功能、网络通信及测试服务。
+技术平台、客户端有：
+- 竞价撮合平台Matching Transaction Platform（MTP）
+- 综合业务平台Alternative Transaction Platform（ATP） 
+- 期权业务平台Derivatives Transaction Platform（DTP） 
+- 港股通平台International Transaction Platform（ITP）
+- 新债券交易平台 Extreme Bond Transaction Platform(XBTP)
+- 固定收益平台Fix Income Security Platform（FISP）
+- 互联网交易平台Internet Innovation Transaction Platform（IITP）
+- 交易网关TraDing GateWay（TDGW）
+- 行情网关Market Data GateWay（MDGW）
+- 行情接收客户端 Vendor Data Engine（VDE）
+
+相关对应的技术文档清单如下：
+
+
+
 ## Nasdaq
 [SoupBinTCP](https://www.nasdaq.com/docs/SoupBinTCP%204.1.pdf)
 [Nordic OUCH 5 Specification](https://www.nasdaq.com/docs/2022/11/09/OUCH5-for-Nasdaq-Nordic-5.01.4_0.pdf)
