@@ -36,7 +36,10 @@
 - [指数](https://www.nasdaq.com/solutions/nasdaq-index-data-solution)
 - [多资产](https://www.nasdaq.com/solutions/nasdaq-data-multi-asset-classes)
 
+
+
 ## 伦敦交易所集团
+
 伦交所市场数据传输包含多个方面，不同数据分类规范不同。
 ### 历史数据产品
 [历史数据产品](https://www.londonstockexchange.com/securities-trading/market-data/historical-data-products)
@@ -51,6 +54,8 @@
 [数据产品概述](https://www.nyse.com/data-products) 
 主要包含了实时数据、历史数据、公司事件、参考数据等
 [NYSE Pillar平台](https://www.nyse.com/market-data/real-time/integrated-feed)
+对于纽交所接入、网关、消息、撮合引擎和市场数据等问题进行整理，形成了FAQ.
+[技术FAQ及最佳实践](https://www.nyse.com/publicdocs/nyse/markets/nyse/NYSE_Group_Equities_Technology_FAQ.pdf)
 
 AWS云服务
 
