@@ -13,3 +13,7 @@
 [全球主要交易所系列研究之德国交易所集团](http://www.sse.com.cn/aboutus/research/report/c/5300348.pdf)
 
 [上海证券交易所ETF行业发展报告（2023）](http://etf.sse.com.cn/fundtrends/c/5715525.pdf)
+
+[纽交所、纳斯达克和上交所对标分析及启示](http://www.sse.com.cn/aboutus/research/report/c/4306279.pdf)
+
+[全球证券交易所行业发展趋势研究](http://www.sse.com.cn/aboutus/research/report/c/5300347.pdf)
