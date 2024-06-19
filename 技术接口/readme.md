@@ -49,6 +49,14 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 上海证券交易所LDDS系统静态数据接口说明书：[上海证券交易所LDDS系统静态数据接口说明书(1.1.17)_20230221](https://www.sseinfo.com/services/assortment/document/interface/c/5716809.pdf)
 
+## 上海期货交易所
+
+第二代行情发布平台接口规范：[上海期货交易所第二代行情发布平台接口规范V1.21](https://www.shfe.com.cn/services/technology/technical_download/202007/t20200710_796155.html)
+
+行情编解码：[上海期货交易所第二代行情编解码示例V1.12](https://www.shfe.com.cn/services/technology/technical_download/202012/t20201202_796782.html)
+
+
+
 ## 香港证券交易所
 
 市场数据服务：[市场数据服务](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Services/Market-Data-Services/Real-Time-Data-Services/Overview?sc_lang=zh-HK)

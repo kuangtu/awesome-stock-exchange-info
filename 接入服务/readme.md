@@ -34,6 +34,13 @@ CA证书申请：[CA服务](https://www.szse.cn/marketServices/message/ca/index.
 
 上海证券交易所LDDS系统环境接入指引(1.1.1):[上海证券交易所LDDS系统环境接入指引(1.1.1)_20220126](https://www.sseinfo.com/services/assortment/document/additions/c/5690675.pdf)
 
+## 上海期货交易所
+
+接入指引：[上海期货交易所期货公司会员交易接入指引](https://www.shfe.com.cn/upload/dir_20110301/11141_20110301.doc)
+
+网络管理：[上海期货交易所会员与信息服务商接入和使用交易专网管理规范](https://www.shfe.com.cn/upload/dir_20110301/22399_20110301.doc)
+
+
 
 
 ## 香港证券交易所
