@@ -37,6 +37,8 @@ IS120_上海证券交易所行情网关STEP数据接口规范:_[IS120_上海证�
 
 深圳证券交易所组播行情数据分发协议： [深圳证券交易所组播行情数据分发协议（Ver.1.00）](http://www.szse.cn/marketServices/technicalservice/interface/P020200825552361977014.pdf)
 
+深圳证券交易所新一代交易系统接口规范开发指南：[深圳证券交易所新一代交易系统接口规范开发指南](https://www.szse.cn/marketServices/technicalservice/guide/P020180328467271196798.pdf)
+
 ## 上证所网络信息有限公司
 
 正式接口及开发测试接口说明书：[说明入口](https://www.sseinfo.com/services/assortment/document/)
